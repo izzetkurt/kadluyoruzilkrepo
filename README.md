@@ -3,16 +3,16 @@ bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-Ende Eğitiminde oluştu
 
 ## Installation
 Öncelikle projeyi clonelayın 
- '
+ `
  git clone https://github.com/izzetkurt/kadluyoruzilkrepo.git
- '
+ `
  ## Usage 
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
  Linux için
- '''
+```
 cd kodluyoruzilkrepo
 code .
- '''
+ ```
 
  ## Contributing
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için  bir konu açınız.
@@ -20,3 +20,4 @@ code .
  [MIT](https://choosealicense.com/)
 
  ![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+https://app.patika.dev/
