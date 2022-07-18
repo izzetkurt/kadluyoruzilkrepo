@@ -3,9 +3,9 @@ bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-Ende Eğitiminde oluştu
 
 ## Installation
 Öncelikle projeyi clonelayın 
-'''
+ '
  git clone https://github.com/izzetkurt/kadluyoruzilkrepo.git
- '''
+ '
  ## Usage 
  Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
  Linux için
